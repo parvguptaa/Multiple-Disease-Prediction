@@ -85,7 +85,7 @@ if (selected == 'Diabetes Prediction'):
 if (selected == 'Heart Disease Prediction'):
     
     # page title
-    st.title('Heart Disease Prediction using ML')
+    st.title('Heart Disease Prediction using ML by Parv')
     
     col1, col2, col3 = st.columns(3)
     
@@ -151,7 +151,7 @@ if (selected == 'Heart Disease Prediction'):
 if (selected == "Parkinsons Prediction"):
     
     # page title
-    st.title("Parkinson's Disease Prediction using ML")
+    st.title("Parkinson's Disease Prediction using ML by Parv")
     
     col1, col2, col3, col4, col5 = st.columns(5)  
     
